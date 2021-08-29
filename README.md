@@ -16,7 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/prangon.achallenger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prangon chakraborty" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Red_bull" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jceCE02769CeE2YG1Pv3_WAOCpCpK20wm64yRomjTnxXBwMApFbf7vJsx5EjzvGHpPg&usqp=CAU" alt="redbull" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Red_bull" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jceCE02769CeE2YG1Pv3_WAOCpCpK20wm64yRomjTnxXBwMApFbf7vJsx5EjzvGHpPg&usqp=CAU" alt="redbull" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/prangon-chakraborty-3511a6211/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
