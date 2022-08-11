@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prangon</h1>
-<h3 align="center">Not so special but trying to build amazing webapps in React </h3>
+<h3 align="center">Confident, Caring and Curious 🍸🍸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prangonchakraborty-1805085&label=Profile%20views&color=0e75b6&style=flat" alt="prangonchakraborty-1805085" /> </p>
 
