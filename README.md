@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prangonchakraborty-1805085" alt="prangonchakraborty-1805085" /></a> </p>
 
-- 🔭 I’m currently studying to attend **Term final Exam**
+- 🔭 Currently working as a Backend Engineer at **IQVIA**
 
 - 👨‍💻 All of my projects are available at [(not available..but coming soon)]((not available..but coming soon))
 
 - 📫 How to reach me **prangonchakraborty2000@gmail.com**
 
-- ⚡ Fun fact **I think I am a computer nerd 😜😜😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
