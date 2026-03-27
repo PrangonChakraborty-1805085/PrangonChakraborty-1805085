@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prangonchakraborty-1805085" alt="prangonchakraborty-1805085" /></a> </p>
 
-- 🔭 Currently working as a Backend Engineer at **IQVIA**
+- 🔭 Currently working as a Software Engineer at **IQVIA** developing Agentic AI for healthcare
 
 - 👨‍💻 All of my projects are available at [(not available..but coming soon)]((not available..but coming soon))
 
